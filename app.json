@@ -1,0 +1,378 @@
+{
+  "1": {
+    "appid": "463",
+    "packname": "com.dangbeimarket",
+    "appico": "http:\/\/dlpic.aixuekku.com\/uploads\/new\/151121\/9-151121140634C0.png",
+    "downurl": "http:\/\/app.znds.com\/update\/2022-06-14\/dangbeimarket_4.3.8_286_znds.apk",
+    "apptitle": "\u5f53\u8d1d\u5e02\u573a",
+    "banben": "4.3.8",
+    "appcode": "286",
+    "vercode": "286",
+    "vername": "4.3.8",
+    "dburl": "http:\/\/app.znds.com\/update\/2022-06-14\/dangbeimarket_4.3.8_286_znds.dangbei",
+    "downnum": "150\u4e07+"
+  },
+
+  "2": {
+    "appid": "7097",
+    "packname": "com.xiaojie.tv",
+    "appico": "http://p.yhkjjj.com/up/2021-7/2021711714257251.png",
+    "downurl": "http:\/\/cdn.tvmars.com\/huoxing\/mars_common_official_1.9.6.apk",
+    "apptitle": "\u706b\u661f\u76f4\u64ad",
+    "banben": "3.6.0",
+    "appcode": "360",
+    "vercode": "360",
+    "vername": "3.6.0",
+    "dburl": "http:\/\/app.znds.com\/html\/20220816\/xgsptvb_3.6.0_dangbei.dangbei",
+    "downnum": "150\u4e07+"
+  },
+
+  "6": {
+    "appid": "9999",
+    "packname": "ccom.player.diypnz2022",
+    "appico": "http://pic.danji100.com/upload/2021-7/202172018651963.png",
+    "downurl": "https://ghproxy.com/https://raw.githubusercontent.com/topda168/diyp/main/diyp.apk",
+    "apptitle": "DIYP\u81ea\u7528",
+    "banben": "3.6.0",
+    "appcode": "360",
+    "vercode": "360",
+    "vername": "3.6.0",
+    "dburl": "http:\/\/app.znds.com\/html\/20220816\/xgsptvb_3.6.0_dangbei.dangbei",
+    "downnum": "150\u4e07+"
+  },
+
+  "3": {
+    "appid": "7033",
+    "packname": "com.free.video",
+    "appico": "https:\/\/s1.ax1x.com\/2022\/08\/22\/v6g3bn.png",
+    "downurl": "http://hnxz2.raxeros.com/com.free.video.apk",
+    "apptitle": "\u514d\u8d39\u5f71\u89c6",
+    "banben": "4.8",
+    "appcode": "209",
+    "vercode": "209",
+    "vername": "4.8",
+    "dburl": "http:\/\/app.znds.com\/html\/20200927\/dbscjsb_4.2.3_dangbei.dangbei",
+    "downnum": "100\u4e07+"
+  },
+
+  "4": {
+    "appid": "7496",
+    "packname": "com.ant.store.appstore",
+    "appico": "https:\/\/s1.ax1x.com\/2022\/08\/22\/v6g1Ds.png",
+    "downurl": "https:\/\/www.tvlea.com\/mayiapk\/ant_market_v1.2.6_official.apk",
+    "apptitle": "\u8682\u8681\u5e02\u573a",
+    "banben": "1.8.2",
+    "appcode": "1820",
+    "vercode": "1820",
+    "vername": "1.8.2",
+    "dburl": "http:\/\/topda168.evai.pl\/apk\/com_free_video.apk",
+    "downnum": "150\u4e07+"
+  },
+
+  "5": {
+    "appid": "1613",
+    "packname": "com.fengyun.live",
+    "appico": "http://pic.j9p.com/up/2022-5/20225271618475378.jpg",
+    "downurl": "http://jxz3.692657.com/apk/com.fengyun.live5.apk",
+    "apptitle": "\u4e91\u6d77\u7535\u89c6\u9ad8\u6e05\u7248",
+    "banben": "6.1.503.383.3.DBEI_TVAPP.0.0_Release",
+    "appcode": "22080910",
+    "vercode": "22080910",
+    "vername": "6.1.503.383.3.DBEI_TVAPP.0.0_Release",
+    "dburl": "http:\/\/app.znds.com\/html\/20220810\/mgtvDBEI_6.1.503_dangbei.dangbei",
+    "downnum": "150\u4e07+"
+  },
+
+  "29": {
+    "appid": "13",
+    "packname": "com.moretv.android",
+    "appico": "http:\/\/dlpic.aixuekku.com\/uploads\/new\/200720\/9-200H01K51bV.png",
+    "downurl": "http:\/\/topda168.evai.pl\/apk\/com_free_video.apk.filepart",
+    "apptitle": "\u7535\u89c6\u732b\u89c6\u9891",
+    "banben": "4.1.7",
+    "appcode": "41750",
+    "vercode": "41750",
+    "vername": "4.1.7",
+    "dburl": "http:\/\/app.znds.com\/html\/20211104\/dsm_4.1.7_dangbei.dangbei",
+    "downnum": "150\u4e07+"
+  },
+
+  "7": {
+    "appid": "7098",
+    "packname": "cn.pytv.player",
+    "appico": "https://pic.215soft.com/uploadfile/2022/0405/20220405044042568.png",
+    "downurl": "http://down.215soft.com/app/cn.spytv.player.apk",
+    "apptitle": "\u6d3etv\u5bc6\u78011688",
+    "banben": "3.12.0",
+    "appcode": "315",
+    "vercode": "315",
+    "vername": "3.12.0",
+    "dburl": "http:\/\/app.znds.com\/html\/20220719\/dbys_3.12.0_dangbei.dangbei",
+    "downnum": "150\u4e07+"
+  },
+
+  "8": {
+    "appid": "2324",
+    "packname": "com.togic.livevideo",
+    "appico": "https://s1.ax1x.com/2022/08/22/v6gY5V.png",
+    "downurl": "http://y8la.692657.com/azyx/com.togic.livevideo.pj.apk",
+    "apptitle": "\u6cf0\u6377\u53bb\u5e7f\u544a\u89e3\u95014k",
+    "banben": "10.1.0.1009",
+    "appcode": "117606",
+    "vercode": "117606",
+    "vername": "10.1.0.1009",
+    "dburl": "http:\/\/app.znds.com\/html\/20220802\/txsp16158_10.1.0.1009_dangbei.dangbei",
+    "downnum": "150\u4e07+"
+  },
+
+  "9": {
+    "appid": "1220",
+    "packname": "com.gitvdemo.video",
+    "appico": "http:\/\/dlpic.aixuekku.com\/uploads\/new\/220726\/117-220H6105GD96.png",
+    "downurl": "http:\/\/app.znds.com\/down\/20220812\/aqy11642_12.8.2.150799_dangbei.apk",
+    "apptitle": "\u7231\u5947\u827aTV\u7248",
+    "banben": "12.8.2.150799",
+    "appcode": "150799",
+    "vercode": "150799",
+    "vername": "12.8.2.150799",
+    "dburl": "http:\/\/app.znds.com\/html\/20220812\/aqy11642_12.8.2.150799_dangbei.dangbei",
+    "downnum": "150\u4e07+"
+  },
+
+  "10": {
+    "appid": "5483",
+    "packname": "com.dianshijia.dangbei",
+    "appico": "http:\/\/dlpic.aixuekku.com\/uploads\/new\/210208\/9-21020Q6243T32.png",
+    "downurl": "http:\/\/app.znds.com\/down\/20210707\/dsj3.0_1.0.0_dangbei.apk",
+    "apptitle": "\u7535\u89c6\u5bb63.0",
+    "banben": "1.0.0",
+    "appcode": "500",
+    "vercode": "500",
+    "vername": "1.0.0",
+    "dburl": "http:\/\/app.znds.com\/html\/20210707\/dsj3.0_1.0.0_dangbei.dangbei",
+    "downnum": "150\u4e07+"
+  },
+
+  "11": {
+    "appid": "6289",
+    "packname": "com.github.tvbox.osc",
+    "appico": "https://pic.215soft.com/uploadfile/2022/0827/20220827110140734.png",
+    "downurl": "http://y8lc.692657.com/com.github.tvbox.osc.nzy.apk",
+    "apptitle": "\u55b5\u5f71\u89c6tv",
+    "banben": "4.3.3",
+    "appcode": "105200",
+    "vercode": "105200",
+    "vername": "2.6.0",
+    "dburl": "http:\/\/app.znds.com\/html\/20220727\/ystxds_1.5.2_dangbei.dangbei",
+    "downnum": "150\u4e07+"
+  },
+
+  "12": {
+    "appid": "6289",
+    "packname": "com.okey.tvbox.box",
+    "appico": "https://pic.215soft.com/uploadfile/2022/0827/20220827104752639.png",
+    "downurl": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/apks/main/live/%E4%B8%80%E5%BD%B1%E8%A7%86.apk",
+    "apptitle": "1-tv",
+    "banben": "1.5.2",
+    "appcode": "105200",
+    "vercode": "105200",
+    "vername": "1.5.2",
+    "dburl": "http:\/\/app.znds.com\/html\/20220727\/ystxds_1.5.2_dangbei.dangbei",
+    "downnum": "150\u4e07+"
+  },
+
+  "13": {
+    "appid": "6289",
+    "packname": "com.cwb.yingshi",
+    "appico": "https://pic.215soft.com/uploadfile/2022/0830/20220830020822490.png",
+    "downurl": "http://www.mingri.tv/v2.0.9.apk",
+    "apptitle": "\u660e\u65e5\u5f71\u89c6",
+    "banben": "1.5.2",
+    "appcode": "105200",
+    "vercode": "105200",
+    "vername": "2.0.9",
+    "dburl": "http:\/\/app.znds.com\/html\/20220727\/ystxds_1.5.2_dangbei.dangbei",
+    "downnum": "150\u4e07+"
+  },
+
+  "14": {
+    "appid": "6289",
+    "packname": "com.kukantv",
+    "appico": "https://s1.ax1x.com/2022/08/28/vWDelF.png",
+    "downurl": "http://down.215soft.com/app/com.kukantv-cjitv.apk",
+    "apptitle": "\u8d85\u7ea7itv",
+    "banben": "5.0.2",
+    "appcode": "105200",
+    "vercode": "105200",
+    "vername": "1.5.2",
+    "dburl": "http:\/\/app.znds.com\/html\/20220727\/ystxds_1.5.2_dangbei.dangbei",
+    "downnum": "150\u4e07+"
+  },
+
+  "15": {
+    "appid": "6289",
+    "packname": "com.aesq.zb",
+    "appico": "http://p.yhkjjj.com/up/2022-2/2022217104167144.png",
+    "downurl": "http://y2.197784.com/xhzb1.0.15.apk",
+    "apptitle": "\u661f\u706btv\u7535\u89c6\u7834\u89e3",
+    "banben": "1.0.15",
+    "appcode": "105200",
+    "vercode": "105200",
+    "vername": "1.5.2",
+    "dburl": "http:\/\/app.znds.com\/html\/20220727\/ystxds_1.5.2_dangbei.dangbei",
+    "downnum": "150\u4e07+"
+  },
+
+  "16": {
+    "appid": "6289",
+    "packname": "com.aesq1.zb",
+    "appico": "https://pic.215soft.com/uploadfile/2022/0902/20220902111143586.png",
+    "downurl": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-03ee1f89-f0d4-49aa-a2b3-50e203514d8a/62736b18-41e3-42e3-86db-3930cb6f4fed.apk",
+    "apptitle": "\u5f71\u89c6\u5de5\u573atv\u7248",
+    "banben": "1.0.15",
+    "appcode": "105200",
+    "vercode": "105200",
+    "vername": "1.5.2",
+    "dburl": "http:\/\/app.znds.com\/html\/20220727\/ystxds_1.5.2_dangbei.dangbei",
+    "downnum": "150\u4e07+"
+  },
+
+  "17": {
+    "appid": "6289",
+    "packname": "com.xiaojing.tv",
+    "appico": "http://www.xiaojingtv.com/wp-content/uploads/2022/06/1122.png",
+    "downurl": "https://cdn.dianshihome.com/pkg/tv3.0/apk/release/202208021652/xiaojing_default_1.3.0_release_243-signed.apk",
+    "apptitle": "\u5c0f\u9cb8\u7535\u89c6",
+    "banben": "1.3.0",
+    "appcode": "105200",
+    "vercode": "105200",
+    "vername": "1.3.0",
+    "dburl": "http:\/\/app.znds.com\/html\/20220727\/ystxds_1.5.2_dangbei.dangbei",
+    "downnum": "150\u4e07+"
+  },
+  
+    "18": {
+    "appid": "6289",
+    "packname": "hdpfans.com",
+    "appico": "https://www.win7cjb.com/uploads/allimg/220803/1_0P309545342A.png",
+    "downurl": "https://cr7.197946.com/hdpfans.com4.0.0.apk",
+    "apptitle": "\hdp\u9ad8\u6e05\u76f4\u64ad",
+    "banben": "4.0.0",
+    "appcode": "105200",
+    "vercode": "105200",
+    "vername": "4.0.0",
+    "dburl": "http:\/\/app.znds.com\/html\/20220727\/ystxds_1.5.2_dangbei.dangbei",
+    "downnum": "150\u4e07+"
+  },
+  
+    "19": {
+    "appid": "6289",
+    "packname": "com.funshion.castapp",
+    "appico": "https://img.znds.com/uploads/new/190505/9-1Z50515004a40.png",
+    "downurl": "https://webapk.dangbei.net/down/20191209/cztp_1.4.0.8_dangbei.apk",
+    "apptitle": "\u6a59\u5b50\u6295\u5c4f ",
+    "banben": "1.4.0.8",
+    "appcode": "105200",
+    "vercode": "105200",
+    "vername": "1.4.0.8",
+    "dburl": "http:\/\/app.znds.com\/html\/20220727\/ystxds_1.5.2_dangbei.dangbei",
+    "downnum": "150\u4e07+"
+  },
+  
+    "20": {
+    "appid": "6289",
+    "packname": "com.jsy.xpgtv",
+    "appico": "http://pic.hnfcjr.com/up/2022-9/202295152441672.png",
+    "downurl": "http://hh1.daanche.com/apk/xpgystvb_v1.1.4.apk",
+    "apptitle": "\u5c0f\u82f9\u679c\u5f71\u89c6tv\u7248",
+    "banben": "1.1.4",
+    "appcode": "105200",
+    "vercode": "105200",
+    "vername": "1.1.4",
+    "dburl": "http:\/\/app.znds.com\/html\/20220727\/ystxds_1.5.2_dangbei.dangbei",
+    "downnum": "150\u4e07+"
+  },
+  
+      "21": {
+    "appid": "6289",
+    "packname": "com.example.sdclear",
+    "appico": "https://mogua.co/download/7a1ac98cb399dee2eac7e20cc39c7fd5-icon.png",
+    "downurl": "",
+    "apptitle": "\u4e00\u952e\u6e05\u7406",
+    "banben": "1.1.4",
+    "appcode": "105200",
+    "vercode": "105200",
+    "vername": "1.1.4",
+    "dburl": "http:\/\/app.znds.com\/html\/20220727\/ystxds_1.5.2_dangbei.dangbei",
+    "downnum": "150\u4e07+"
+ },
+
+      "22": {
+    "appid": "6289",
+    "packname": "com.jsy.xpgbox",
+    "appico": "http://pic.hnfcjr.com/up/2022-10/20221022945563505.png",
+    "downurl": "http://hh1.daanche.com/apk/xpgyshz_v1.0.5.apk",
+    "apptitle": "\u65b0\u7248\u5c0f\u82f9\u679ctvbox",
+    "banben": "1.0.5",
+    "appcode": "105200",
+    "vercode": "105200",
+    "vername": "1.1.4",
+    "dburl": "http:\/\/app.znds.com\/html\/20220727\/ystxds_1.5.2_dangbei.dangbei",
+    "downnum": "150\u4e07+"
+ },
+
+      "23": {
+    "appid": "6251",
+    "packname": "cn.pytv.player",
+    "appico": "http://pic.hnfcjr.com/up/2022-10/202210171346254907.png",
+    "downurl": "http://hh1.daanche.com/apk/ptc_v2.31.apk",
+    "apptitle": "\u6d3etv_v2.31",
+    "banben": "2.31",
+    "appcode": "105200",
+    "vercode": "105200",
+    "vername": "1.1.4",
+    "dburl": "http:\/\/app.znds.com\/html\/20220727\/ystxds_1.5.2_dangbei.dangbei",
+    "downnum": "150\u4e07+"
+ },
+      "24": {
+    "appid": "6289",
+    "packname": "com.example.sdclear",
+    "appico": "hg",
+    "downurl": "",
+    "apptitle": "\u4e00\u952e\u6e05\u7406",
+    "banben": "1.1.4",
+    "appcode": "105200",
+    "vercode": "105200",
+    "vername": "1.1.4",
+    "dburl": "http:\/\/app.znds.com\/html\/20220727\/ystxds_1.5.2_dangbei.dangbei",
+    "downnum": "150\u4e07+"
+ },
+        "25": {
+    "appid": "6289",
+    "packname": "com.example.sdclear",
+    "appico": "hg",
+    "downurl": "https://ghproxy.com/https://raw.githubusercontent.com/topda168/111/main/vip.apk",
+    "apptitle": "\u4e00\u952e\u6e05\u7406",
+    "banben": "1.1.4",
+    "appcode": "105200",
+    "vercode": "105200",
+    "vername": "1.1.4",
+    "dburl": "http:\/\/app.znds.com\/html\/20220727\/ystxds_1.5.2_dangbei.dangbei",
+    "downnum": "150\u4e07+"
+ },
+      "26": {
+    "appid": "6289",
+    "packname": "com.dangbei.lerad.videoposter",
+    "appico": "http://pic.dangbei.net/uploads/new/200619/9-2006191P52KV.png",
+    "downurl": "http://120.240.94.100/app.znds.com/down/20221014/dbb321fq_1.3.3_dangbei.apk",
+    "apptitle": "\u5f53\u8d1d\u64ad\u653e\u5668",
+    "banben": "1.1.4",
+    "appcode": "105200",
+    "vercode": "105200",
+    "vername": "1.1.4",
+    "dburl": "http:\/\/app.znds.com\/html\/20220727\/ystxds_1.5.2_dangbei.dangbei",
+    "downnum": "150\u4e07+"
+ },
+
+  "allnum": "45"
+}
